@@ -25,19 +25,27 @@ free code camp https://www.freecodecamp.org/challenges/say-hello-to-html-element
 Day 3: 11/24/2017
 Today's Progress:
 Set up my goals on google spread sheet to keep myself productive based on freecode camp's courses.
-Headline with the h2 Element	
-Inform with the Paragraph Element	
-Uncomment HTML	
-Comment out HTML	
-Fill in the Blank with Placeholder 
-Delete HTML Elements	
-Change the Color of Text
+Headlined with the h2 Element	
+Informed with the paragraph element	
+Uncommented/Comment out HTML		
+Filled in the blank with placeholder 
+Deleted HTML Elements	
+Changed the Color of Text
 
 Day 4: 11/25/2017
 Today's Progress:
-Learned to use a CSS Class/Selectors to Style Elements and style Multiple Elements with a CSS Class.
-Changed the Font Size of an Element 
-Set the Font Family of an Element
-Applied to my code to build my potoforlio site. 
+Learned to use a CSS Class/Selectors and style multiple elements with a CSS class.
+Changed the Font Size of an element 
+Set the font family of an element
+Applied those to my code to build my potoforlio site. 
 
 Thoughts: Still long ways to go but gradually that "scary" feeeling while I'm learning to code is disappearing. :) 
+
+Day 5: 11/26/2017
+Today's Progress:
+Imported a google font and made fonts degrade. 
+Added images and borders around my element and sized my image
+
+Thoughts: After importing a google font, h2 fonts changed the original color to black 
+even though the code snippet says red-text...Hmm
+
