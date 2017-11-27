@@ -63,4 +63,14 @@ Added images and borders around my element and sized my image
 Thoughts: After importing a google font, h2 fonts changed the original color to black 
 even though the code snippet says red-text...Hmm
 
+Day 6: 11/27/2017
+Today's Progress:
+Added rounded corners and made circular images with a Border Radius
+Linked to external pages with anchor elements
+Nested an anchor element within a aaragraph
+Made dead links using the hash symbol ▶︎ Why should I make dead links though?
+Turned an image into a link
+
+
+
 
