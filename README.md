@@ -15,7 +15,6 @@ Let's see how it will go...
 Day 1: 11/22/2017
 
 Today's Progress:
-
 Set up Github account and play around with web interface.
 Set up 100 Days of Code Repo.
 Install GitHub Desktop and learn to Commit/Upload.
@@ -32,9 +31,11 @@ I could started adding other additional functions more. Might need some help to 
 as sometimes my code does not work as I expected. Would use free code camp comunnity to solve problems/questions.
 
 Links
+
 Web Development Tutorial for Beginners (#1) - How to build webpages with HTML, CSS, Javascript https://youtu.be/3JluqTojuME
 w3schools.com https://www.w3schools.com/css/default.asp
 free code camp https://www.freecodecamp.org/challenges/say-hello-to-html-elements
+
 
 Day 3: 11/24/2017
 Today's Progress:
@@ -53,6 +54,7 @@ Changed the Font Size of an element
 Set the font family of an element
 Applied those to my code to build my potoforlio site. 
 
+
 Thoughts: Still long ways to go but gradually that "scary" feeeling while I'm learning to code is disappearing. :) 
 
 Day 5: 11/26/2017
@@ -60,15 +62,14 @@ Today's Progress:
 Imported a google font and made fonts degrade. 
 Added images and borders around my element and sized my image
 
+
 Thoughts: After importing a google font, h2 fonts changed the original color to black 
 even though the code snippet says red-text...Hmm
 
 Day 6: 11/27/2017
 Today's Progress:
 Added rounded corners and made circular images with a Border Radius
-
 Linked to external pages with anchor elements
-
 Nested an anchor element within a aaragraph
 Made dead links using the hash symbol ▶︎ Why should I make dead links though?
 Turned an image into a link
