@@ -74,6 +74,10 @@ Nested an anchor element within a aaragraph
 Made dead links using the hash symbol ▶︎ Why should I make dead links though?
 Turned an image into a link
 
-
+Day 7: 11/28/2017
+Today's Progress:
+Created a Bulleted Unordered List and an ordered lists
+Added placefolder to text
+Applied those to my website 
 
 
