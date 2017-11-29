@@ -80,4 +80,12 @@ Created a Bulleted Unordered List and an ordered lists
 Added placefolder to text
 Applied those to my website 
 
+Day 8: 11/29/2017
+Today's Progress:
+Created a form element and added a submit button to a Form
+Used HTML5 to require a Field 
+Created a set of radio/checkbox buttons
+
+
+
 
