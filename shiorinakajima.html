@@ -24,16 +24,23 @@
   Width: 100px
 
 }
-
+.silver-background{
+  background-color: silver;
+}
+#email-form{
+ background-color: green;
+}
 </style>
+
 
 <h2 class="red-text">Shiori Nakajima</h2>
 
 <img class=“larger-image thick-green-border"  
 src="https://goo.gl/mDo3Kj" alt="A cute orange cat lying on its back. ">
 
+<div class=“silver-background”>
 <p class=“red-text”>Hello! I’m a freelance translator/writer/proofreader from Japan. </p>
-<p>Here’s <a href=“#”> my Japanese blog </a> where I post my thoughts/opinion/travels</p>
+<p>Here’s <a href=“#”> my Japanese blog </a> where I blog about my travels/thoughts/opinions</p>
 <ul>
   <li>Travel posts</li>
   <li>Thoughts</li>
@@ -45,14 +52,15 @@ src="https://goo.gl/mDo3Kj" alt="A cute orange cat lying on its back. ">
   <li>An interview with Kate</li>
   <li>Travel photos</li>
 </ol>
-<form action=“/submit inquiry>
+</div>
 
-<form action="/Personality">
-   <label><input type="radio" name="indoor-outdoor"> Extrovert</label>
-  <label><input type="checkbox" name="personality" checked> Introvert</label>
-  <label><input type="checkbox" name="personality"> Traveler</label>
-  <label><input type="checkbox" name="personality"> Nomad</label>
-<br>
+<form action="/submit-email” id=“email-form”>
+  <label><input type="radio" name="indoor-outdoor" checked> Indoor</label>
+  <label><input type="radio" name="indoor-outdoor"> Outdoor</label>
+  <label><input type="checkbox" name="personality" checked> Loving</label>
+  <label><input type="checkbox" name="personality"> Lazy</label>
+  <label><input type="checkbox" name="personality"> Energetic</label>
+  
 <br>
   <input type="text" placeholder=Email required>  <button type="submit">Send</button>
 </form>
