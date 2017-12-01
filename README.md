@@ -93,3 +93,6 @@ Checked radio buttons and checkboxes by default and nested elements in div
 
 Thoughts: I gave background colors and my code worked on freecodecamp but does not on my webside. Has taken me an hour to figure out why it does not work there... maybe I should try tomorrow :( 
 
+Day 10: 01/12/2017
+Today's Progress:
+Styled the HTML Body Element
