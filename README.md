@@ -96,3 +96,7 @@ Thoughts: I gave background colors and my code worked on freecodecamp but does n
 Day 10: 01/12/2017
 Today's Progress:
 Styled the HTML Body Element
+
+Day 11: 03/12/2017
+Today's Progress:
+Overrode class declarations with inline styles and other styles by using !Important
