@@ -100,3 +100,9 @@ Styled the HTML Body Element
 Day 11: 03/12/2017
 Today's Progress:
 Overrode class declarations with inline styles and other styles by using !Important
+
+Day 12: 04/12/2017
+Today's Progress:
+Used hex code for specific colors and added RGB values. 
+
+
