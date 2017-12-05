@@ -105,4 +105,8 @@ Day 12: 04/12/2017
 Today's Progress:
 Used hex code for specific colors and added RGB values. 
 
+Day 13: 055/12/2017
+Today's Progress:
+Learned some responsive design with Bootstrap: Created bootstrap buttons that call out optional actions
 
+Thoughts: I understand about Bootstrap so far but struggling to apply to my portforlio site.. :'( 
