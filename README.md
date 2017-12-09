@@ -116,3 +116,9 @@ Today's Progress:
 Used the Bootstrap Grid to Put Elements Side By Side and created a custom heading
 
 Thoughts: It's quite stressful when my code doesn't work and have no idea which code I should rewrite...I'm stuck :'( 
+
+Day 15: 09/12/2017
+Today's Progress:
+Added Font Awesome Icons to all of our Buttons
+
+Thoughts: Nested each of radio buttons inside its own div with the class col-xs-6 but it doesn't work :'( 
