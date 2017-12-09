@@ -121,4 +121,4 @@ Day 15: 09/12/2017
 Today's Progress:
 Added Font Awesome Icons to all of our Buttons
 
-Thoughts: Nested each of radio buttons inside its own div with the class col-xs-6 but it doesn't work :'( 
+Thoughts: Nested each of radio buttons inside its own div with the class col-xs-6 but it doesn't work :'( Plus my code looks messy lol 
