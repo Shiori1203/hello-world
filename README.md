@@ -127,3 +127,9 @@ Thoughts: Nested each of radio buttons inside its own div with the class col-xs-
 Day 16: 10/12/2017
 Today's Progress:
 Styled checkboxes and text elements with Bootstrap  
+
+Day 17: 11/12/2017
+Today's Progress:
+Created a Bootstrap headline and buttons and applied easy jQuery to them. 
+
+Thoughts: Gradually all the codes I've wrote make sence to me. Usually I suruggle with my code and sometimes stress out why it does not work but I enjoyed coding today :D 
