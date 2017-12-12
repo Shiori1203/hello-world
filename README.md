@@ -133,3 +133,9 @@ Today's Progress:
 Created a Bootstrap headline and buttons and applied easy jQuery to them. 
 
 Thoughts: Gradually all the codes I've wrote make sence to me. Usually I suruggle with my code and sometimes stress out why it does not work but I enjoyed coding today :D 
+
+Day 17: 12/12/2017
+Today's Progress:
+Implemented jQuery validation for buttons and added comments to clarify my code
+
+Thoughts: I was wondering which one I should learn at first Javascript/jQuery. But decided to learn jQuery at first. I think it is better as it's simplifies Javascript codes and makes it easier to apply to. For now Javascript could be too complicated for me to get into, I guess :p 
