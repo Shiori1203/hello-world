@@ -139,3 +139,9 @@ Today's Progress:
 Implemented jQuery validation for buttons and added comments to clarify my code
 
 Thoughts: I was wondering which one I should learn at first Javascript/jQuery. But decided to learn jQuery at first. I think it is better as it's simplifies Javascript codes and makes it easier to apply to. For now Javascript could be too complicated for me to get into, I guess :p 
+
+Day 18: 13/12/2017
+Today's Progress:
+Targeted elements by ID using jQuery
+
+
