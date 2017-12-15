@@ -144,4 +144,13 @@ Day 18: 13/12/2017
 Today's Progress:
 Targeted elements by ID using jQuery
 
+Day 19: 14/12/2017
+Today's Progress:
+Removed classes from an element with jQuery
 
+
+Day 20: 15/12/2017
+Today's Progress:
+Changed text inside an element and removed an element using jQuery
+
+Thoughts: Gosh I lost my streak as I started today's lessons at 12:30am. :( I decided to show up and learn to code everyday even if I complete only one/two lessons, which is def not enough. I know I need to learn faster. But at least I move forward, right? :)  
