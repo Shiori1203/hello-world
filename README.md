@@ -154,3 +154,9 @@ Today's Progress:
 Changed text inside an element and removed an element using jQuery
 
 Thoughts: Gosh I lost my streak as I started today's lessons at 12:30am. :( I decided to show up and learn to code everyday even if I complete only one/two lessons, which is def not enough. I know I need to learn faster. But at least I move forward, right? :)  
+
+
+Day 24: 19/12/2017
+Today's Progress:
+Learned how to code on CodePen :) Completed HTML/CSS/bootstrap/jQuery courses yesterday. Gonna move on to building my portfolio website from scratch. 
+Writing some basic codes HTML/CSS/JS.
