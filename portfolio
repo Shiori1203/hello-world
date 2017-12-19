@@ -1,0 +1,11 @@
+body{
+  font-family: lobster;
+  background: no-repeat center center fixed;
+  -webkit backgroundsize: cover;
+　　　　-moz-backgroundsize: cover;
+  -o-background-size: cover;
+  background size: cover;
+}
+
+
+
