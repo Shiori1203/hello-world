@@ -158,11 +158,15 @@ Thoughts: Gosh I lost my streak as I started today's lessons at 12:30am. :( I de
 
 Day 24: 19/12/2017
 Today's Progress:
-Learned how to code on CodePen :) Completed HTML/CSS/bootstrap/jQuery courses yesterday. Gonna move on to building my portfolio website from scratch. 
-Writing some basic codes HTML/CSS/JS. 
+Learned how to code on CodePen :) Completed HTML/CSS/bootstrap/jQuery courses yesterday. Moving on to building my portfolio website from scratch. 
+
+Wrote some basic codes with HTML/CSS/JS. 
 
 
 Day 25: 20/12/2017
+
 Today's Progress:
-Worked on my portfolio. Wrote some codes to make a navbar with bootstrap from scratch. (maybe I won't need to write from scratch if I get used to it but for now, just to make sure I understand how it works!) It worked. Took me an hour to understand every codes in it though. 
+
+Worked on my portfolio. Wrote some codes to make a navbar with bootstrap from scratch. (maybe I won't need to write from scratch if I get used to it but for now, just to make sure I understand how it works!) It worked. 
+Took me an hour to understand every codes in it though. 
 Updated my progress with GIF :) 
