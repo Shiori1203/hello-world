@@ -1,17 +1,6 @@
 # hello-world
 Readme
 
-Hello, I'm Shiori Nakajima, a freelance translator/writer from Japan.
-
-I decided to learn to code by myself, but I need something that makes me accountable everyday.
-So on this Github site, I will manage my learning process and also show you my progress on that.
-
-I am going to learn basic languages HTML/CSS/JS and create my portofolio with m coding. 
-
-Let's see how it will go...
-
-
-
 Day 1: 11/22/2017
 
 Today's Progress:
@@ -174,6 +163,6 @@ Updated my progress with GIF :)
 Day 26: 21/12/2017
 
 Today's Progress:
-Added some HTML and CSS code to arrange my navbar: Fontawesome icons and another tab for a link to twitter. Now when I click the tab, it automatically opens a new one and shows my twitter profile page.
+Added some HTML and CSS code to arrange my navbar: Fontawesome icons and another tab for a link to my twitter top page. Now when I click the tab, it automatically opens a new one as well. :) My codes are quite messy though lol 
 
  
