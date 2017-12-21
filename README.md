@@ -170,3 +170,10 @@ Today's Progress:
 Worked on my portfolio. Wrote some codes to make a navbar with bootstrap from scratch. (maybe I won't need to write from scratch if I get used to it but for now, just to make sure I understand how it works!) It worked. 
 Took me an hour to understand every codes in it though. 
 Updated my progress with GIF :) 
+
+Day 26: 21/12/2017
+
+Today's Progress:
+Added some HTML and CSS code to arrange my navbar: Fontawesome icons and another tab for a link to twitter. Now when I click the tab, it automatically opens a new one and shows my twitter profile page.
+
+ 
