@@ -174,4 +174,4 @@ Aligned texts and added padding but still doesn't look great XD Will fix it tomo
 Day 28: 23/12/2017
 
 Today's Progress:
-Just added profile pic on About Me and tried to implement bootstrap grid system but it doesn't work. No GIF for today :O
+Just added profile pic on About Me and tried to implement bootstrap grid system but it doesn't work. No GIF to apload for today :O
