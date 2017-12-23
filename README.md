@@ -165,8 +165,13 @@ Day 26: 21/12/2017
 Today's Progress:
 Added some HTML and CSS code to arrange my navbar: Fontawesome icons and another tab for a link to my twitter top page. Now when I click the tab, it automatically opens a new one as well. :) My codes are quite messy though lol 
 
-Day 27: 21/12/2017
+Day 27: 22/12/2017
 
 Today's Progress:
 Added: texts (which doesn't make any sence) and anchor tags in HTML for each navbar. Now when I click About Me, Portfolio, and Contact, it brings me to the texts. 
 Aligned texts and added padding but still doesn't look great XD Will fix it tomorrow.
+
+Day 28: 23/12/2017
+
+Today's Progress:
+Just added profile pic on About Me and tried to implement bootstrap grid system but it doesn't work. No GIF for today :O
