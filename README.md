@@ -179,4 +179,9 @@ Just added profile pic on About Me and tried to implement bootstrap grid system 
 Day 29: 28/12/2017 (Portfolio day5)
 
 Today's Progress:
-Added a Bootstrap card on the portfolio section. Arranged "border-radius" but still doesn't look great. XD 
+Added a Bootstrap card on the portfolio section. Arranged "border-radius" but still doesn't look great. XD
+
+Day 30: 30/12/2017 (Portfolio day6)
+
+Today's Progress:
+I just reviewed all the codes I've wrote so far. Sometimes coding is overwelming XD 
