@@ -185,3 +185,9 @@ Day 30: 30/12/2017 (Portfolio day6)
 
 Today's Progress:
 I just reviewed all the codes I've wrote so far. Sometimes coding is overwelming XD 
+
+Day 31: 1/1/2018 (Portfolio day7)
+
+Today's Progress:
+Rearranged card blocks using bootstrap and created buttons on "contact"
+Added some icons on those buttons
