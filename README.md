@@ -191,3 +191,8 @@ Day 31: 1/1/2018 (Portfolio day7)
 Today's Progress:
 Rearranged card blocks using bootstrap and created buttons on "contact"
 Added some icons on those buttons
+
+Day 31: 1/5/2018 (Portfolio day8)
+
+Today's Progress:
+Every codes I added today don't worrrrrk whyyyyyyyy
