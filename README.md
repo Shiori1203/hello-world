@@ -196,3 +196,8 @@ Day 31: 1/5/2018 (Portfolio day8)
 
 Today's Progress:
 Every codes I added today don't worrrrrk whyyyyyyyy
+
+Day 32: 1/6/2018 (Portfolio day9)
+
+Today's Progress:
+Spotted some code errors in HTML but another one showed up. Now my portforlio site is a mess XD
