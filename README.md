@@ -200,4 +200,4 @@ Every codes I added today don't worrrrrk whyyyyyyyy
 Day 32: 1/6/2018 (Portfolio day9)
 
 Today's Progress:
-Spotted some code errors in HTML but another one showed up. Now my portforlio site is a mess XD
+Spotted some code errors in HTML and fixed it but another problem showed up. Now my portforlio site is a mess XD
